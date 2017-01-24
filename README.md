@@ -16,7 +16,7 @@ Linkedin: https://br.linkedin.com/in/magno-monte-cerqueira-976b1587 <br />
 <br /> 
 <br /> 
 
-# Copyright© Magnao
+# Copyright© Magnao  d:D
 
 The zabbix templates and softwares available here are released under the GNU General Public License (GPL) version 2. The formal terms of the GPL can be found at http://www.fsf.org/licenses/.
 
