@@ -4,22 +4,17 @@ Em caso de dúvida, sugestão ou dificuldade junte-se a nós no Grupo do Telegra
 
 Contatos:
 
-Telegram: @Magnopeem
-Skype: magnopeem_rj@hotmail.com
-E-mail: magnopeem@gmail.com
-Linkedin: https://br.linkedin.com/in/magno-monte-cerqueira-976b1587
+Telegram: @Magnopeem <br /> 
+Skype: magnopeem_rj@hotmail.com <br /> 
+E-mail: magnopeem@gmail.com <br /> 
+Linkedin: https://br.linkedin.com/in/magno-monte-cerqueira-976b1587 <br /> 
 
-
-
-
-
-
-
-
-
-
-
-
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 
 # Copyright© Magnao
 
