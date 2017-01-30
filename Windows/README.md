@@ -5,13 +5,16 @@
 
 ##### O Template_AGENTE_WINDOWS_LLD_VERSAO-1.0 , Ja vai configurado as seguinte opções por padrao abaixo e suas respectivas informações de como utilizar.<br /> 
 
-O que acompanha o template:<br /> 
+##### O que acompanha o template!<br /> 
 
 ##### Dados Coletados:
 
-![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/01.PNG)
+![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_01.PNG)
 
-Em LLD:
+##### Em LLD:
+
+![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_02.PNG)
+
 
 ##### 1) Descoberta de discos e todas as suas informações basicas:<br /> 
 
