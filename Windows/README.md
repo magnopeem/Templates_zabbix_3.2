@@ -40,6 +40,7 @@
 ##### 5) Em Graficos:
 
 * Disponibilidade
+
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_05.PNG)
 
 
