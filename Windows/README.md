@@ -44,21 +44,27 @@
 
 
 * Latencia
+
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_06.PNG)
 
 * Perda de Pacotes
+
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_07.PNG)
 
 * Tempo Ligado
+
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_08.PNG)
 
 * Memoria
+
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_09.PNG)
 
 * Processador
+
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_10.PNG)
 
 * I/O de Disco
+
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_11.PNG)
 
 ##### 6) Apos a coleta de todos os dados, e so inserir as informações de trafego de entrada e saida da placa de rede no grafico.
