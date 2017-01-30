@@ -1,15 +1,15 @@
 
-Prezados,
+Prezados,<br /> 
 
-A ideia desse template e facilitar a vida em unificar todos os hosts windows em um template unico.
+A ideia desse template e facilitar a vida em unificar todos os hosts windows em um template unico.<br /> 
 
-O Template_AGENTE_WINDOWS_LLD_VERSAO-1.0 , Ja vai configurado as seguinte opções por padrao abaixo e suas respectivas informações de como utilizar.
+O Template_AGENTE_WINDOWS_LLD_VERSAO-1.0 , Ja vai configurado as seguinte opções por padrao abaixo e suas respectivas informações de como utilizar.<br /> 
 
-O que acompanha o template:
+O que acompanha o template:<br /> 
 
 Em LLD:
 
-1) Descoberta de discos e todas as suas informações basicas:[6]
+1) Descoberta de discos e todas as suas informações basicas:<br /> 
 
 1- Espaco total em disco
 2- Espaco livre em disco
