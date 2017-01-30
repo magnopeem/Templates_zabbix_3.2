@@ -3,19 +3,19 @@ Prezados,
 
 A ideia desse template e facilitar a vida em unificar todos os hosts windows em um template unico.
 
-O Template_AGENTE_WINDOWS_LLD_VERSAO-1.0 , Ja vai configurado as seguinte opções por padrao abaixo e suas respectivas informações de como utilizar.[6]
+O Template_AGENTE_WINDOWS_LLD_VERSAO-1.0 , Ja vai configurado as seguinte opções por padrao abaixo e suas respectivas informações de como utilizar.
 
-O que acompanha o template:[6]
+O que acompanha o template:
 
-Em LLD:[6]
+Em LLD:
 
 1) Descoberta de discos e todas as suas informações basicas:[6]
 
-1- Espaco total em disco[6]
-2- Espaco livre em disco[6]
-3- Espaco livre em disco (porcentagem)[6]
-4- Espaco usado em disco[6]
-5- Espaco usado em disco (porcentagem)[6]
+1- Espaco total em disco
+2- Espaco livre em disco
+3- Espaco livre em disco (porcentagem)
+4- Espaco usado em disco
+5- Espaco usado em disco (porcentagem)
 
 2) Descoberta de Rede e todas as suas informações basicas:
 
