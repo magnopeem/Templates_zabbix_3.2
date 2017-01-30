@@ -18,8 +18,8 @@
 
 ##### 1) Descoberta de discos e todas as suas informações basicas:<br /> 
 
-* Espaco total em disco<br /> 
-2- Espaco livre em disco<br /> 
+* Espaco total em disco 
+* Espaco livre em disco 
 3- Espaco livre em disco (porcentagem)<br /> 
 4- Espaco usado em disco<br /> 
 5- Espaco usado em disco (porcentagem)<br /> 
