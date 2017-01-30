@@ -3,9 +3,11 @@
 
 ##### A ideia desse template e facilitar a vida em unificar todos os hosts windows em um template unico.
 
-##### O Template_AGENTE_WINDOWS_LLD_VERSAO-1.0 , Ja vai configurado as seguinte opções por padrao abaixo e suas respectivas informações de como utilizar.<br /> 
+##### O Template_AGENTE_WINDOWS_LLD_VERSAO-1.0 , Ja vai configurado as seguinte opções por padrao abaixo e suas respectivas informações de como utilizar.
 
-##### O que acompanha o template!<br /> 
+
+##### O que acompanha o template!
+
 
 ##### Dados Coletados:
 
