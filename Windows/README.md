@@ -1,5 +1,5 @@
 
-##### Prezados, <br /> 
+##### Simples Template Zabbix Para Windows.
 
 ##### A ideia desse template e facilitar a vida em unificar todos os hosts windows em um template unico.
 
@@ -37,22 +37,20 @@
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_04.PNG)
 
 
-##### 5) Em Graficos:<br /> 
+##### 5) Em Graficos:
 
-1- Disponibilidade<br />
-2- Latencia<br /> 
-3- Perda de Pacotes<br /> 
-4- Tempo Ligado<br /> 
-5- Memoria<br /> 
-6- Processador<br /> 
-7- I/O de Disco<br /> 
+* Disponibilidade
+* Latencia
+* Perda de Pacotes
+* Tempo Ligado
+* Memoria
+* Processador
+* I/O de Disco
 
-##### 6) Apos a coleta de todos os dados, e so inserir as informações de trafego de entrada e saida da placa de rede no grafico.<br /> 
+##### 6) Apos a coleta de todos os dados, e so inserir as informações de trafego de entrada e saida da placa de rede no grafico.
 
-1- Criar grafico 8- Trafego da interface <br /> 
+* Criar grafico 8- Trafego da interface
 
-##### 7) Apos a coleta de todos os dados, e so inserir as informações de disco no grafico.<br /> 
+##### 7) Apos a coleta de todos os dados, e so inserir as informações de disco no grafico.
 
-1- Criar grafico 9- com as informações desejadas do disco.<br /> 
-
-
+* Criar grafico 9- com as informações desejadas do disco.
