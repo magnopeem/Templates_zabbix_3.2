@@ -79,3 +79,8 @@
 * Criar grafico 9- com as informações desejadas do disco.
 
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_13.PNG)
+
+
+## Referências Utilizadas
+
+* https://www.udemy.com/zabbix-avancado/
