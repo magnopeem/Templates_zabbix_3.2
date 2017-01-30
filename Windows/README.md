@@ -85,4 +85,5 @@
 
 ## Referências Utilizadas
 
+* https://www.udemy.com/curso-zabbix/
 * https://www.udemy.com/zabbix-avancado/
