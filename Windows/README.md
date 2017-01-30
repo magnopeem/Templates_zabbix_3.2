@@ -24,10 +24,16 @@
 4- Espaco usado em disco<br /> 
 5- Espaco usado em disco (porcentagem)<br /> 
 
+![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_03.PNG)
+
+
 ##### 2) Descoberta de Rede e todas as suas informações basicas:<br /> 
 
 1- Trafego de Entrada<br /> 
-2- Trafego de saida<br /> 
+2- Trafego de saida<br />
+
+![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_04.PNG)
+
 
 ##### 3) Em Graficos:<br /> 
 
