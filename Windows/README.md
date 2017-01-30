@@ -1,5 +1,5 @@
 
-##### Prezados,<br /> 
+** Prezados, ** 
 
 ##### A ideia desse template e facilitar a vida em unificar todos os hosts windows em um template unico.<br /> 
 
