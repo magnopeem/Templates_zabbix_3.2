@@ -7,6 +7,10 @@
 
 O que acompanha o template:<br /> 
 
+##### Dados Coletados:
+
+![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/01.PNG)
+
 Em LLD:
 
 ##### 1) Descoberta de discos e todas as suas informações basicas:<br /> 
