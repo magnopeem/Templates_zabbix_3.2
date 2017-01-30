@@ -72,6 +72,10 @@
 
 * Criar grafico 8- Trafego da interface
 
+![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_12.PNG)
+
 ##### 7) Apos a coleta de todos os dados, e so inserir as informações de disco no grafico.
 
 * Criar grafico 9- com as informações desejadas do disco.
+
+![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/windows_lld_13.PNG)
