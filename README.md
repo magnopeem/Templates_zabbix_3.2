@@ -3,10 +3,11 @@
 
 ## Quer contribuir com a Comunidade Zabbix? 
 
-## Em caso de dúvida, sugestão ou dificuldade junte-se a nós no Grupo do Telegram https://t.me/ZabbixBrasil 
+## Em caso de dúvida, sugestão ou dificuldade junte-se a nós no Grupo do Telegram
 
 ## Contatos:
 
+* Grupo: https://t.me/ZabbixBrasil 
 * Telegram: @Magnopeem
 * Skype: magnopeem_rj@hotmail.com
 * E-mail: magnopeem@gmail.com
