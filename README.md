@@ -1,7 +1,7 @@
 
 ![Alt Text](https://github.com/magnopeem/Templates_zabbix_3.2/blob/master/src/img/web-banner-zabbix-3.png)
 
-Quer contribuir com a Comunidade Zabbix? 
+## Quer contribuir com a Comunidade Zabbix? 
 
 Em caso de dúvida, sugestão ou dificuldade junte-se a nós no Grupo do Telegram https://t.me/ZabbixBrasil 
 
