@@ -3,7 +3,7 @@
 
 ## Quer contribuir com a Comunidade Zabbix? 
 
-## Em caso de dúvida, sugestão ou dificuldade junte-se a nós no Grupo do Telegram!
+### Em caso de dúvida, sugestão ou dificuldade junte-se a nós no Grupo do Telegram!
 
 * Grupo: https://t.me/ZabbixBrasil 
 
